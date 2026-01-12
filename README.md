@@ -1,4 +1,4 @@
-## Hello there! <img src="" width="30">
+## Hello there! <img src="https://github.com/TajibSmajlovic/TajibSmajlovic/blob/main/wave.gif" width="30">
 
 My name is Tajib, and I'm a passionate engineer who loves building things.
 
