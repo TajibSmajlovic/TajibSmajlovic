@@ -5,8 +5,8 @@ My name is Tajib, and I'm a passionate engineer who loves building things
 ```javascript
 const tajib_smajlovic = {
     location: "Sarajevo, Bosnia and Herzegovina",
-    roles: ["Senior Software Engineer", "AI Software Engineer", "Tech Lead"],
-    languages: ["JavaScript", "TypeScript", "C#", "Python", "Go"],
+    roles: ["senior software engineer", "ai software engineer", "tech lead"],
+    languages: ["javascript", "typescript", "c#", "python", "go"],
     interested_in: ["web dev", "mobile dev", "ai", "system design"],
     technologies: {
           frontend: {
