@@ -12,7 +12,7 @@ const tajib_smajlovic = {
           frontend: {
               basic: ["html", "css"],
               framework: ["react", "react native", "next", "remix", "tanstack start", "blazor"],
-              ui: ["material ui", "bootstrap", "shadcn/ui"],
+              ui: ["material ui", "bootstrap", "shadcn/ui", "theme-ui"],
               css: ["tailwindcss", "styled components"]
           },
           backend: {
