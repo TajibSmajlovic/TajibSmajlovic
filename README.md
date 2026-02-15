@@ -10,7 +10,6 @@ const tajib_smajlovic = {
     interested_in: ["web dev", "mobile dev", "ai", "system design"],
     technologies: {
           frontend: {
-              basic: ["html", "css"],
               framework: ["react", "react native", "next", "remix", "tanstack start", "blazor"],
               ui: ["material ui", "bootstrap", "shadcn/ui", "theme-ui"],
               css: ["tailwindcss", "styled components"]
